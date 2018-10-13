@@ -41,7 +41,7 @@
     [self.contentView addSubview:nameLb];
 
     UILabel *detailLb = [[UILabel alloc]init];
-    detailLb.text = @"哈哈哈啊哈哈😀fgAJI及";
+    detailLb.text = @"哈哈哈啊哈哈😀fgJI及";
     detailLb.textColor = [UIColor grayColor];
     detailLb.backgroundColor = [UIColor blueColor];
     [self.contentView addSubview:detailLb];
